@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "My new Website",
+      "body": "Irure culpa sint deserunt tempor irure cupidatat. Ullamco nisi qui quis elit. Aute eiusmod laborum non ex adipisicing aliquip. Do mollit officia laborum magna minim in nisi. Irure laborum reprehenderit qui duis in excepteur.",
+      "author": "Mario"
+    },
+    {
+      "id": 3,
+      "title": "Web dev top tips",
+      "body": "Deserunt veniam tempor exercitation laborum dolore officia eu sunt cupidatat. Ad aliqua duis pariatur proident labore aliqua irure labore aute. Non labore minim excepteur enim. Do incididunt voluptate duis aliquip.",
+      "author": "Mario"
+    }
+  ]
+}
